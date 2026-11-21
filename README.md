@@ -21,7 +21,7 @@ Results (K = 5)
 Run it
 
 pip install scikit-learn pandas matplotlib
-python iris_knn_classifier.py
+python iris_knn_classifier.py 
 
 The script prints the results and saves confusion_matrix.png.
 
